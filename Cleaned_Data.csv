@@ -1,0 +1,59 @@
+ID,Start time,Completion time,Age?,Gender?,Year of study?,From the scale of 1 to 10 how familiar are you with the concept of learning styles?,Which learning style best describes you?,"How many hours do you use visual learning aids (e.g. diagram, charts ,videos)?","How many hours do you spend on audio-based learning ( Lectures, podcasts, discussions)?","How many hours do you spend on hands-on or practical learning ( experiments,  case studies)?","How many hours do you study using written materials (Books, articles, notes)?",From the scale of 1 to 10 how much LSBU teaching methods support your learning style?,Which LSBU learning method do you find most effective?,"How often do you use LSBU's digital learning resources (Moodle, recorded lectures, online library)?",How effective do you find LSBU's current teaching methods?,What is your average assessment results(%)?,From the scale of 1 to 10 how much do you believe  that LSBU have necessary resources matching your learning style? 
+1,2/28/25 17:50:05,2/28/25 17:50:51,22,Man,Third year,8,Kinesthetic ( Hands-on activities),23,23,23,23,5,Online lectures,6,6,Above 70,6
+2,3/5/25 11:05:32,3/5/25 11:07:04,19,Man,First year,10,"Visual (Images, charts)",5,5,6,8,9,Face to face lectures,10,10,Above 70,10
+3,3/5/25 11:05:51,3/5/25 11:07:27,18,Woman,First year,5,Reading/ Writing ( Text-based learning),0,1,0,5,5,Practical workshops,7,6,Above 70,5
+4,3/5/25 11:05:20,3/5/25 11:08:13,23,Woman,First year,5,"Auditory ( Listening, discussions)",2,1,2,2,6,Online lectures,9,6,Above 70,6
+5,3/5/25 11:06:48,3/5/25 11:08:32,19,Woman,First year,7,Reading/ Writing ( Text-based learning),1,10,1,5,6,Face to face lectures,8,6,60 to 70,6
+6,3/5/25 11:06:40,3/5/25 11:08:54,19,Woman,First year,7,Mix of styles,1,0,2,1,8,Face to face lectures,3,7,Above 70,7
+7,3/5/25 11:05:36,3/5/25 11:10:04,19,Man,First year,7,"Visual (Images, charts)",25,5,2,2,8,Face to face lectures,7,6,Above 70,5
+8,3/5/25 11:08:19,3/5/25 11:10:53,20,Man,First year,6,Mix of styles,15,15,20,10,8,Practical workshops,10,8,41 to 60,8
+9,3/5/25 12:09:07,3/5/25 12:27:28,20,Man,First year,7,"Visual (Images, charts)",5,6,4,2,7,Online lectures,10,10,60 to 70,8
+10,3/5/25 12:31:13,3/5/25 12:33:01,20,Man,First year,7,"Visual (Images, charts)",6,2,3,1,7,Group work,7,6,41 to 60,8
+11,3/5/25 12:55:04,3/5/25 12:59:58,24,Woman,First year,9,Kinesthetic ( Hands-on activities),2,15,5,30,7,Library resources,7,7,Above 70,4
+12,3/5/25 12:55:13,3/5/25 15:12:17,18,Woman,First year,2,Kinesthetic ( Hands-on activities),20,20,30,25,1,Practical workshops,5,6,Above 70,4
+13,3/5/25 16:12:34,3/5/25 16:14:07,18,Woman,First year,5,Mix of styles,2,2,3,3,5,Face to face lectures,5,5,Above 70,5
+14,3/6/25 10:55:44,3/6/25 10:56:41,18,Man,First year,10,"Visual (Images, charts)",8,8,9,0,10,Online lectures,8,7,Above 70,10
+15,3/6/25 10:55:47,3/6/25 10:56:56,20,Man,First year,9,"Visual (Images, charts)",2,1,3,5,8,Face to face lectures,7,8,60 to 70,8
+16,3/6/25 10:52:20,3/6/25 11:00:59,19,Woman,First year,7,"Auditory ( Listening, discussions)",20,10,2,16,7,Face to face lectures,6,4,Above 70,7
+17,3/6/25 10:58:42,3/6/25 11:01:02,20,Woman,First year,4,Reading/ Writing ( Text-based learning),5,10,5,5,4,Group work,4,4,41 to 60,4
+18,3/6/25 10:59:58,3/6/25 11:04:36,18,Woman,First year,7,Mix of styles,2,4,4,0,8,Practical workshops,8,8,Above 70,7
+19,3/6/25 11:04:40,3/6/25 11:05:14,20,Non-binary,First year,5,"Visual (Images, charts)",0,0,0,0,8,One-on-one tutoring,9,6,41 to 60,5
+20,3/6/25 11:05:23,3/6/25 11:06:07,22,Man,First year,6,"Auditory ( Listening, discussions)",5,30,10,5,9,Face to face lectures,9,7,Above 70,8
+21,3/6/25 11:06:41,3/6/25 11:08:46,24,Man,First year,5,Reading/ Writing ( Text-based learning),0,0,0,1,6,Practical workshops,4,6,less than 40,5
+22,3/6/25 11:12:46,3/6/25 11:14:28,30,Man,First year,5,"Visual (Images, charts)",20,10,20,10,5,Face to face lectures,5,5,Above 70,5
+23,3/6/25 12:40:41,3/6/25 12:43:18,19,Man,First year,7,Mix of styles,3,1,3,4,6,Face to face lectures,7,9,60 to 70,8
+24,3/6/25 12:44:49,3/6/25 12:45:54,19,Woman,First year,6,Reading/ Writing ( Text-based learning),3,2,2,5,5,One-on-one tutoring,5,5,60 to 70,5
+25,3/6/25 12:45:38,3/6/25 12:46:39,19,Woman,First year,6,"Auditory ( Listening, discussions)",10,10,10,10,7,Face to face lectures,7,5,Above 70,7
+26,3/6/25 12:43:15,3/6/25 12:46:42,19,Woman,First year,6,Mix of styles,7,6,3,4,7,Face to face lectures,4,8,60 to 70,7
+27,3/6/25 14:27:54,3/6/25 14:29:00,19,Man,First year,8,"Visual (Images, charts)",6,3,7,8,8,Face to face lectures,8,7,Above 70,8
+28,3/6/25 14:34:53,3/6/25 14:35:43,19,Woman,First year,3,"Visual (Images, charts)",2,23,21,10,5,Practical workshops,6,2,41 to 60,5
+29,3/6/25 15:40:27,3/6/25 15:45:12,21,Woman,First year,8,Reading/ Writing ( Text-based learning),20,20,20,20,5,One-on-one tutoring,5,7,41 to 60,6
+30,3/6/25 15:46:35,3/6/25 15:47:45,19,Man,Second year,6,Reading/ Writing ( Text-based learning),25,25,25,25,5,Practical workshops,5,5,60 to 70,5
+31,3/6/25 15:49:11,3/6/25 15:51:32,21,Woman,First year,10,Mix of styles,5,5,0,5,7,Face to face lectures,6,6,41 to 60,7
+32,3/6/25 15:52:36,3/6/25 15:53:25,21,Woman,First year,9,"Visual (Images, charts)",40,30,20,40,7,One-on-one tutoring,8,8,60 to 70,8
+33,3/6/25 15:53:15,3/6/25 15:54:00,19,Woman,First year,7,"Visual (Images, charts)",5,5,5,3,7,Group work,6,6,Above 70,7
+34,3/6/25 15:55:56,3/6/25 15:56:52,19,Woman,First year,2,Reading/ Writing ( Text-based learning),7,7,17,9,7,One-on-one tutoring,7,7,60 to 70,5
+35,3/6/25 15:58:21,3/6/25 15:59:09,20,Woman,First year,5,"Visual (Images, charts)",2,3,2,1,6,Face to face lectures,6,6,Above 70,6
+36,3/6/25 15:50:31,3/6/25 15:59:24,23,Man,First year,5,Mix of styles,1,1,1,1,5,Group work,5,5,41 to 60,5
+37,3/6/25 16:02:52,3/6/25 16:03:46,20,Woman,First year,5,"Auditory ( Listening, discussions)",2,1,1,1,2,Online lectures,5,7,60 to 70,7
+38,3/6/25 16:08:23,3/6/25 16:09:36,21,Man,First year,7,"Visual (Images, charts)",32,3,2,2,5,Practical workshops,8,7,60 to 70,7
+39,3/6/25 16:09:03,3/6/25 16:09:40,19,Man,First year,7,"Visual (Images, charts)",10,5,15,12,7,Online lectures,7,9,60 to 70,7
+40,3/6/25 16:11:43,3/6/25 16:12:37,20,Woman,First year,10,"Visual (Images, charts)",5,2,4,4,10,Online lectures,8,9,Above 70,8
+41,3/6/25 16:12:03,3/6/25 16:13:23,20,Woman,First year,7,Kinesthetic ( Hands-on activities),7,5,10,7,8,Face to face lectures,3,9,60 to 70,4
+42,3/6/25 16:14:15,3/6/25 16:15:46,22,Man,First year,5,"Visual (Images, charts)",2,3,2,2,7,Face to face lectures,5,6,41 to 60,6
+43,3/6/25 16:17:50,3/6/25 16:20:39,18,Man,First year,9,"Visual (Images, charts)",5,2,5,5,8,Online lectures,9,9,Above 70,9
+44,3/6/25 16:20:16,3/6/25 16:20:53,21,Woman,First year,3,"Visual (Images, charts)",9,5,4,5,6,Face to face lectures,5,5,less than 40,3
+45,3/6/25 16:22:41,3/6/25 16:24:16,19,Man,First year,4,"Visual (Images, charts)",2,2,3,1,5,Face to face lectures,7,6,less than 40,5
+46,3/6/25 16:24:01,3/6/25 16:24:39,18,Man,First year,6,"Auditory ( Listening, discussions)",6,4,4,5,7,Practical workshops,6,6,41 to 60,7
+47,3/6/25 16:26:28,3/6/25 16:27:26,20,Man,First year,7,Reading/ Writing ( Text-based learning),7,2,10,2,8,One-on-one tutoring,7,8,Above 70,8
+48,3/6/25 16:29:00,3/6/25 16:29:37,18,Man,First year,2,"Auditory ( Listening, discussions)",10,10,10,10,4,Face to face lectures,3,4,Above 70,1
+49,3/6/25 16:21:20,3/6/25 16:29:41,18,Woman,First year,8,"Auditory ( Listening, discussions)",3,3,2,2,8,Group work,7,7,Above 70,8
+50,3/6/25 16:34:58,3/6/25 16:36:18,18,Man,First year,5,"Visual (Images, charts)",13,20,25,8,6,Online lectures,5,4,60 to 70,6
+51,3/6/25 16:12:39,3/6/25 16:36:37,23,Man,First year,6,"Visual (Images, charts)",34,23,20,10,5,Face to face lectures,6,6,less than 40,6
+52,3/6/25 16:37:05,3/6/25 16:37:34,20,Man,First year,5,"Visual (Images, charts)",20,20,20,20,5,Online lectures,5,5,41 to 60,5
+53,3/6/25 16:35:17,3/6/25 16:37:38,19,Man,First year,3,Kinesthetic ( Hands-on activities),3,5,2,6,8,Practical workshops,8,9,Above 70,8
+54,3/6/25 16:38:22,3/6/25 16:39:03,20,Man,First year,6,"Visual (Images, charts)",6,10,10,4,6,Face to face lectures,6,5,60 to 70,6
+55,3/6/25 16:44:28,3/6/25 16:45:12,21,Woman,First year,6,Reading/ Writing ( Text-based learning),5,2,0,0,5,Face to face lectures,4,8,Above 70,6
+56,3/6/25 16:57:03,3/6/25 16:57:06,22,Man,First year,5,"Visual (Images, charts)",6,7,5,5,5,Face to face lectures,5,6,60 to 70,5
+57,3/7/25 18:40:58,3/7/25 18:44:26,22,Man,First year,8,Mix of styles,4,0,6,2,7,Face to face lectures,7,7,60 to 70,7
+58,3/8/25 14:04:00,3/8/25 14:05:08,20,Woman,First year,5,Mix of styles,5,4,5,5,5,Practical workshops,5,5,41 to 60,5
