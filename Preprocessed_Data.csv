@@ -1,59 +1,59 @@
-ID,Start,End,Age,Gender,Year,Familiarity,PrefStyle,VisualHrs,AudioHrs,PracticalHrs,WrittenHrs,SupportRating,BestMethod,DigitalFreq,MethodEffectiveness,AssessmentCat,ResourceRating,ElapsedMins,YearNum,PrefStyleShort,AssessmentScore,TotalStudyHrs,DominantMode,ModeMatchesPreference
-1,2025-02-28 17:50:05,2025-02-28 17:50:51,22,Man,Third year,8,Kinesthetic ( Hands-on activities),23,23,23,23,5,Online lectures,6,6,Above 70,6,0.7666666666666667,3,Kinesthetic,85,92,Visual,False
-2,2025-03-05 11:05:32,2025-03-05 11:07:04,19,Man,First year,10,"Visual (Images, charts)",5,5,6,8,9,Face to face lectures,10,10,Above 70,10,1.5333333333333334,1,Visual,85,24,Written,False
-3,2025-03-05 11:05:51,2025-03-05 11:07:27,18,Woman,First year,5,Reading/ Writing ( Text-based learning),0,1,0,5,5,Practical workshops,7,6,Above 70,5,1.6,1,Reading,85,6,Written,False
-4,2025-03-05 11:05:20,2025-03-05 11:08:13,23,Woman,First year,5,"Auditory ( Listening, discussions)",2,1,2,2,6,Online lectures,9,6,Above 70,6,2.8833333333333333,1,Auditory,85,7,Visual,False
-5,2025-03-05 11:06:48,2025-03-05 11:08:32,19,Woman,First year,7,Reading/ Writing ( Text-based learning),1,10,1,5,6,Face to face lectures,8,6,60 to 70,6,1.7333333333333334,1,Reading,65,17,Auditory,False
-6,2025-03-05 11:06:40,2025-03-05 11:08:54,19,Woman,First year,7,Mix of styles,1,0,2,1,8,Face to face lectures,3,7,Above 70,7,2.2333333333333334,1,Mixed,85,4,Practical,False
-7,2025-03-05 11:05:36,2025-03-05 11:10:04,19,Man,First year,7,"Visual (Images, charts)",25,5,2,2,8,Face to face lectures,7,6,Above 70,5,4.466666666666667,1,Visual,85,34,Visual,True
-8,2025-03-05 11:08:19,2025-03-05 11:10:53,20,Man,First year,6,Mix of styles,15,15,20,10,8,Practical workshops,10,8,41 to 60,8,2.566666666666667,1,Mixed,50,60,Practical,False
-9,2025-03-05 12:09:07,2025-03-05 12:27:28,20,Man,First year,7,"Visual (Images, charts)",5,6,4,2,7,Online lectures,10,10,60 to 70,8,18.35,1,Visual,65,17,Auditory,False
-10,2025-03-05 12:31:13,2025-03-05 12:33:01,20,Man,First year,7,"Visual (Images, charts)",6,2,3,1,7,Group work,7,6,41 to 60,8,1.8,1,Visual,50,12,Visual,True
-11,2025-03-05 12:55:04,2025-03-05 12:59:58,24,Woman,First year,9,Kinesthetic ( Hands-on activities),2,15,5,30,7,Library resources,7,7,Above 70,4,4.9,1,Kinesthetic,85,52,Written,False
-12,2025-03-05 12:55:13,2025-03-05 15:12:17,18,Woman,First year,2,Kinesthetic ( Hands-on activities),20,20,30,25,1,Practical workshops,5,6,Above 70,4,137.06666666666666,1,Kinesthetic,85,95,Practical,False
-13,2025-03-05 16:12:34,2025-03-05 16:14:07,18,Woman,First year,5,Mix of styles,2,2,3,3,5,Face to face lectures,5,5,Above 70,5,1.55,1,Mixed,85,10,Practical,False
-14,2025-03-06 10:55:44,2025-03-06 10:56:41,18,Man,First year,10,"Visual (Images, charts)",8,8,9,0,10,Online lectures,8,7,Above 70,10,0.95,1,Visual,85,25,Practical,False
-15,2025-03-06 10:55:47,2025-03-06 10:56:56,20,Man,First year,9,"Visual (Images, charts)",2,1,3,5,8,Face to face lectures,7,8,60 to 70,8,1.15,1,Visual,65,11,Written,False
-16,2025-03-06 10:52:20,2025-03-06 11:00:59,19,Woman,First year,7,"Auditory ( Listening, discussions)",20,10,2,16,7,Face to face lectures,6,4,Above 70,7,8.65,1,Auditory,85,48,Visual,False
-17,2025-03-06 10:58:42,2025-03-06 11:01:02,20,Woman,First year,4,Reading/ Writing ( Text-based learning),5,10,5,5,4,Group work,4,4,41 to 60,4,2.3333333333333335,1,Reading,50,25,Auditory,False
-18,2025-03-06 10:59:58,2025-03-06 11:04:36,18,Woman,First year,7,Mix of styles,2,4,4,0,8,Practical workshops,8,8,Above 70,7,4.633333333333334,1,Mixed,85,10,Auditory,False
-19,2025-03-06 11:04:40,2025-03-06 11:05:14,20,Non-binary,First year,5,"Visual (Images, charts)",0,0,0,0,8,One-on-one tutoring,9,6,41 to 60,5,0.5666666666666667,1,Visual,50,0,Visual,True
-20,2025-03-06 11:05:23,2025-03-06 11:06:07,22,Man,First year,6,"Auditory ( Listening, discussions)",5,30,10,5,9,Face to face lectures,9,7,Above 70,8,0.7333333333333333,1,Auditory,85,50,Auditory,True
-21,2025-03-06 11:06:41,2025-03-06 11:08:46,24,Man,First year,5,Reading/ Writing ( Text-based learning),0,0,0,1,6,Practical workshops,4,6,less than 40,5,2.0833333333333335,1,Reading,20,1,Written,False
-22,2025-03-06 11:12:46,2025-03-06 11:14:28,30,Man,First year,5,"Visual (Images, charts)",20,10,20,10,5,Face to face lectures,5,5,Above 70,5,1.7,1,Visual,85,60,Visual,True
-23,2025-03-06 12:40:41,2025-03-06 12:43:18,19,Man,First year,7,Mix of styles,3,1,3,4,6,Face to face lectures,7,9,60 to 70,8,2.6166666666666667,1,Mixed,65,11,Written,False
-24,2025-03-06 12:44:49,2025-03-06 12:45:54,19,Woman,First year,6,Reading/ Writing ( Text-based learning),3,2,2,5,5,One-on-one tutoring,5,5,60 to 70,5,1.0833333333333333,1,Reading,65,12,Written,False
-25,2025-03-06 12:45:38,2025-03-06 12:46:39,19,Woman,First year,6,"Auditory ( Listening, discussions)",10,10,10,10,7,Face to face lectures,7,5,Above 70,7,1.0166666666666666,1,Auditory,85,40,Visual,False
-26,2025-03-06 12:43:15,2025-03-06 12:46:42,19,Woman,First year,6,Mix of styles,7,6,3,4,7,Face to face lectures,4,8,60 to 70,7,3.45,1,Mixed,65,20,Visual,False
-27,2025-03-06 14:27:54,2025-03-06 14:29:00,19,Man,First year,8,"Visual (Images, charts)",6,3,7,8,8,Face to face lectures,8,7,Above 70,8,1.1,1,Visual,85,24,Written,False
-28,2025-03-06 14:34:53,2025-03-06 14:35:43,19,Woman,First year,3,"Visual (Images, charts)",2,23,21,10,5,Practical workshops,6,2,41 to 60,5,0.8333333333333334,1,Visual,50,56,Auditory,False
-29,2025-03-06 15:40:27,2025-03-06 15:45:12,21,Woman,First year,8,Reading/ Writing ( Text-based learning),20,20,20,20,5,One-on-one tutoring,5,7,41 to 60,6,4.75,1,Reading,50,80,Visual,False
-30,2025-03-06 15:46:35,2025-03-06 15:47:45,19,Man,Second year,6,Reading/ Writing ( Text-based learning),25,25,25,25,5,Practical workshops,5,5,60 to 70,5,1.1666666666666667,2,Reading,65,100,Visual,False
-31,2025-03-06 15:49:11,2025-03-06 15:51:32,21,Woman,First year,10,Mix of styles,5,5,0,5,7,Face to face lectures,6,6,41 to 60,7,2.35,1,Mixed,50,15,Visual,False
-32,2025-03-06 15:52:36,2025-03-06 15:53:25,21,Woman,First year,9,"Visual (Images, charts)",40,30,20,40,7,One-on-one tutoring,8,8,60 to 70,8,0.8166666666666667,1,Visual,65,130,Visual,True
-33,2025-03-06 15:53:15,2025-03-06 15:54:00,19,Woman,First year,7,"Visual (Images, charts)",5,5,5,3,7,Group work,6,6,Above 70,7,0.75,1,Visual,85,18,Visual,True
-34,2025-03-06 15:55:56,2025-03-06 15:56:52,19,Woman,First year,2,Reading/ Writing ( Text-based learning),7,7,17,9,7,One-on-one tutoring,7,7,60 to 70,5,0.9333333333333333,1,Reading,65,40,Practical,False
-35,2025-03-06 15:58:21,2025-03-06 15:59:09,20,Woman,First year,5,"Visual (Images, charts)",2,3,2,1,6,Face to face lectures,6,6,Above 70,6,0.8,1,Visual,85,8,Auditory,False
-36,2025-03-06 15:50:31,2025-03-06 15:59:24,23,Man,First year,5,Mix of styles,1,1,1,1,5,Group work,5,5,41 to 60,5,8.883333333333333,1,Mixed,50,4,Visual,False
-37,2025-03-06 16:02:52,2025-03-06 16:03:46,20,Woman,First year,5,"Auditory ( Listening, discussions)",2,1,1,1,2,Online lectures,5,7,60 to 70,7,0.9,1,Auditory,65,5,Visual,False
-38,2025-03-06 16:08:23,2025-03-06 16:09:36,21,Man,First year,7,"Visual (Images, charts)",32,3,2,2,5,Practical workshops,8,7,60 to 70,7,1.2166666666666666,1,Visual,65,39,Visual,True
-39,2025-03-06 16:09:03,2025-03-06 16:09:40,19,Man,First year,7,"Visual (Images, charts)",10,5,15,12,7,Online lectures,7,9,60 to 70,7,0.6166666666666667,1,Visual,65,42,Practical,False
-40,2025-03-06 16:11:43,2025-03-06 16:12:37,20,Woman,First year,10,"Visual (Images, charts)",5,2,4,4,10,Online lectures,8,9,Above 70,8,0.9,1,Visual,85,15,Visual,True
-41,2025-03-06 16:12:03,2025-03-06 16:13:23,20,Woman,First year,7,Kinesthetic ( Hands-on activities),7,5,10,7,8,Face to face lectures,3,9,60 to 70,4,1.3333333333333333,1,Kinesthetic,65,29,Practical,False
-42,2025-03-06 16:14:15,2025-03-06 16:15:46,22,Man,First year,5,"Visual (Images, charts)",2,3,2,2,7,Face to face lectures,5,6,41 to 60,6,1.5166666666666666,1,Visual,50,9,Auditory,False
-43,2025-03-06 16:17:50,2025-03-06 16:20:39,18,Man,First year,9,"Visual (Images, charts)",5,2,5,5,8,Online lectures,9,9,Above 70,9,2.816666666666667,1,Visual,85,17,Visual,True
-44,2025-03-06 16:20:16,2025-03-06 16:20:53,21,Woman,First year,3,"Visual (Images, charts)",9,5,4,5,6,Face to face lectures,5,5,less than 40,3,0.6166666666666667,1,Visual,20,23,Visual,True
-45,2025-03-06 16:22:41,2025-03-06 16:24:16,19,Man,First year,4,"Visual (Images, charts)",2,2,3,1,5,Face to face lectures,7,6,less than 40,5,1.5833333333333333,1,Visual,20,8,Practical,False
-46,2025-03-06 16:24:01,2025-03-06 16:24:39,18,Man,First year,6,"Auditory ( Listening, discussions)",6,4,4,5,7,Practical workshops,6,6,41 to 60,7,0.6333333333333333,1,Auditory,50,19,Visual,False
-47,2025-03-06 16:26:28,2025-03-06 16:27:26,20,Man,First year,7,Reading/ Writing ( Text-based learning),7,2,10,2,8,One-on-one tutoring,7,8,Above 70,8,0.9666666666666667,1,Reading,85,21,Practical,False
-48,2025-03-06 16:29:00,2025-03-06 16:29:37,18,Man,First year,2,"Auditory ( Listening, discussions)",10,10,10,10,4,Face to face lectures,3,4,Above 70,1,0.6166666666666667,1,Auditory,85,40,Visual,False
-49,2025-03-06 16:21:20,2025-03-06 16:29:41,18,Woman,First year,8,"Auditory ( Listening, discussions)",3,3,2,2,8,Group work,7,7,Above 70,8,8.35,1,Auditory,85,10,Visual,False
-50,2025-03-06 16:34:58,2025-03-06 16:36:18,18,Man,First year,5,"Visual (Images, charts)",13,20,25,8,6,Online lectures,5,4,60 to 70,6,1.3333333333333333,1,Visual,65,66,Practical,False
-51,2025-03-06 16:12:39,2025-03-06 16:36:37,23,Man,First year,6,"Visual (Images, charts)",34,23,20,10,5,Face to face lectures,6,6,less than 40,6,23.966666666666665,1,Visual,20,87,Visual,True
-52,2025-03-06 16:37:05,2025-03-06 16:37:34,20,Man,First year,5,"Visual (Images, charts)",20,20,20,20,5,Online lectures,5,5,41 to 60,5,0.48333333333333334,1,Visual,50,80,Visual,True
-53,2025-03-06 16:35:17,2025-03-06 16:37:38,19,Man,First year,3,Kinesthetic ( Hands-on activities),3,5,2,6,8,Practical workshops,8,9,Above 70,8,2.35,1,Kinesthetic,85,16,Written,False
-54,2025-03-06 16:38:22,2025-03-06 16:39:03,20,Man,First year,6,"Visual (Images, charts)",6,10,10,4,6,Face to face lectures,6,5,60 to 70,6,0.6833333333333333,1,Visual,65,30,Auditory,False
-55,2025-03-06 16:44:28,2025-03-06 16:45:12,21,Woman,First year,6,Reading/ Writing ( Text-based learning),5,2,0,0,5,Face to face lectures,4,8,Above 70,6,0.7333333333333333,1,Reading,85,7,Visual,False
-56,2025-03-06 16:57:03,2025-03-06 16:57:06,22,Man,First year,5,"Visual (Images, charts)",6,7,5,5,5,Face to face lectures,5,6,60 to 70,5,0.05,1,Visual,65,23,Auditory,False
-57,2025-03-07 18:40:58,2025-03-07 18:44:26,22,Man,First year,8,Mix of styles,4,0,6,2,7,Face to face lectures,7,7,60 to 70,7,3.466666666666667,1,Mixed,65,12,Practical,False
-58,2025-03-08 14:04:00,2025-03-08 14:05:08,20,Woman,First year,5,Mix of styles,5,4,5,5,5,Practical workshops,5,5,41 to 60,5,1.1333333333333333,1,Mixed,50,19,Visual,False
+ID,Age,Gender,Familiarity,VisualHrs,AudioHrs,PracticalHrs,WrittenHrs,SupportRating,BestMethod,DigitalFreq,MethodEffectiveness,ResourceRating,ElapsedMins,YearNum,PrefStyleShort,AssessmentScore,TotalStudyHrs,DominantMode,ModeMatchesPreference
+1,22,Man,8,23,23,23,23,5,Online lectures,6,6,6,0.7666666666666667,3,Kinesthetic,85,92,Visual,False
+2,19,Man,10,5,5,6,8,9,Face to face lectures,10,10,10,1.5333333333333334,1,Visual,85,24,Written,False
+3,18,Woman,5,0,1,0,5,5,Practical workshops,7,6,5,1.6,1,Reading,85,6,Written,False
+4,23,Woman,5,2,1,2,2,6,Online lectures,9,6,6,2.8833333333333333,1,Auditory,85,7,Visual,False
+5,19,Woman,7,1,10,1,5,6,Face to face lectures,8,6,6,1.7333333333333334,1,Reading,65,17,Auditory,False
+6,19,Woman,7,1,0,2,1,8,Face to face lectures,3,7,7,2.2333333333333334,1,Mixed,85,4,Practical,False
+7,19,Man,7,25,5,2,2,8,Face to face lectures,7,6,5,4.466666666666667,1,Visual,85,34,Visual,True
+8,20,Man,6,15,15,20,10,8,Practical workshops,10,8,8,2.566666666666667,1,Mixed,50,60,Practical,False
+9,20,Man,7,5,6,4,2,7,Online lectures,10,10,8,18.35,1,Visual,65,17,Auditory,False
+10,20,Man,7,6,2,3,1,7,Group work,7,6,8,1.8,1,Visual,50,12,Visual,True
+11,24,Woman,9,2,15,5,30,7,Library resources,7,7,4,4.9,1,Kinesthetic,85,52,Written,False
+12,18,Woman,2,20,20,30,25,1,Practical workshops,5,6,4,137.06666666666666,1,Kinesthetic,85,95,Practical,False
+13,18,Woman,5,2,2,3,3,5,Face to face lectures,5,5,5,1.55,1,Mixed,85,10,Practical,False
+14,18,Man,10,8,8,9,0,10,Online lectures,8,7,10,0.95,1,Visual,85,25,Practical,False
+15,20,Man,9,2,1,3,5,8,Face to face lectures,7,8,8,1.15,1,Visual,65,11,Written,False
+16,19,Woman,7,20,10,2,16,7,Face to face lectures,6,4,7,8.65,1,Auditory,85,48,Visual,False
+17,20,Woman,4,5,10,5,5,4,Group work,4,4,4,2.3333333333333335,1,Reading,50,25,Auditory,False
+18,18,Woman,7,2,4,4,0,8,Practical workshops,8,8,7,4.633333333333334,1,Mixed,85,10,Auditory,False
+19,20,Non-binary,5,0,0,0,0,8,One-on-one tutoring,9,6,5,0.5666666666666667,1,Visual,50,0,Visual,True
+20,22,Man,6,5,30,10,5,9,Face to face lectures,9,7,8,0.7333333333333333,1,Auditory,85,50,Auditory,True
+21,24,Man,5,0,0,0,1,6,Practical workshops,4,6,5,2.0833333333333335,1,Reading,20,1,Written,False
+22,30,Man,5,20,10,20,10,5,Face to face lectures,5,5,5,1.7,1,Visual,85,60,Visual,True
+23,19,Man,7,3,1,3,4,6,Face to face lectures,7,9,8,2.6166666666666667,1,Mixed,65,11,Written,False
+24,19,Woman,6,3,2,2,5,5,One-on-one tutoring,5,5,5,1.0833333333333333,1,Reading,65,12,Written,False
+25,19,Woman,6,10,10,10,10,7,Face to face lectures,7,5,7,1.0166666666666666,1,Auditory,85,40,Visual,False
+26,19,Woman,6,7,6,3,4,7,Face to face lectures,4,8,7,3.45,1,Mixed,65,20,Visual,False
+27,19,Man,8,6,3,7,8,8,Face to face lectures,8,7,8,1.1,1,Visual,85,24,Written,False
+28,19,Woman,3,2,23,21,10,5,Practical workshops,6,2,5,0.8333333333333334,1,Visual,50,56,Auditory,False
+29,21,Woman,8,20,20,20,20,5,One-on-one tutoring,5,7,6,4.75,1,Reading,50,80,Visual,False
+30,19,Man,6,25,25,25,25,5,Practical workshops,5,5,5,1.1666666666666667,2,Reading,65,100,Visual,False
+31,21,Woman,10,5,5,0,5,7,Face to face lectures,6,6,7,2.35,1,Mixed,50,15,Visual,False
+32,21,Woman,9,40,30,20,40,7,One-on-one tutoring,8,8,8,0.8166666666666667,1,Visual,65,130,Visual,True
+33,19,Woman,7,5,5,5,3,7,Group work,6,6,7,0.75,1,Visual,85,18,Visual,True
+34,19,Woman,2,7,7,17,9,7,One-on-one tutoring,7,7,5,0.9333333333333332,1,Reading,65,40,Practical,False
+35,20,Woman,5,2,3,2,1,6,Face to face lectures,6,6,6,0.8,1,Visual,85,8,Auditory,False
+36,23,Man,5,1,1,1,1,5,Group work,5,5,5,8.883333333333333,1,Mixed,50,4,Visual,False
+37,20,Woman,5,2,1,1,1,2,Online lectures,5,7,7,0.9,1,Auditory,65,5,Visual,False
+38,21,Man,7,32,3,2,2,5,Practical workshops,8,7,7,1.2166666666666666,1,Visual,65,39,Visual,True
+39,19,Man,7,10,5,15,12,7,Online lectures,7,9,7,0.6166666666666667,1,Visual,65,42,Practical,False
+40,20,Woman,10,5,2,4,4,10,Online lectures,8,9,8,0.9,1,Visual,85,15,Visual,True
+41,20,Woman,7,7,5,10,7,8,Face to face lectures,3,9,4,1.3333333333333333,1,Kinesthetic,65,29,Practical,False
+42,22,Man,5,2,3,2,2,7,Face to face lectures,5,6,6,1.5166666666666666,1,Visual,50,9,Auditory,False
+43,18,Man,9,5,2,5,5,8,Online lectures,9,9,9,2.816666666666667,1,Visual,85,17,Visual,True
+44,21,Woman,3,9,5,4,5,6,Face to face lectures,5,5,3,0.6166666666666667,1,Visual,20,23,Visual,True
+45,19,Man,4,2,2,3,1,5,Face to face lectures,7,6,5,1.5833333333333333,1,Visual,20,8,Practical,False
+46,18,Man,6,6,4,4,5,7,Practical workshops,6,6,7,0.6333333333333333,1,Auditory,50,19,Visual,False
+47,20,Man,7,7,2,10,2,8,One-on-one tutoring,7,8,8,0.9666666666666668,1,Reading,85,21,Practical,False
+48,18,Man,2,10,10,10,10,4,Face to face lectures,3,4,1,0.6166666666666667,1,Auditory,85,40,Visual,False
+49,18,Woman,8,3,3,2,2,8,Group work,7,7,8,8.35,1,Auditory,85,10,Visual,False
+50,18,Man,5,13,20,25,8,6,Online lectures,5,4,6,1.3333333333333333,1,Visual,65,66,Practical,False
+51,23,Man,6,34,23,20,10,5,Face to face lectures,6,6,6,23.966666666666665,1,Visual,20,87,Visual,True
+52,20,Man,5,20,20,20,20,5,Online lectures,5,5,5,0.4833333333333333,1,Visual,50,80,Visual,True
+53,19,Man,3,3,5,2,6,8,Practical workshops,8,9,8,2.35,1,Kinesthetic,85,16,Written,False
+54,20,Man,6,6,10,10,4,6,Face to face lectures,6,5,6,0.6833333333333333,1,Visual,65,30,Auditory,False
+55,21,Woman,6,5,2,0,0,5,Face to face lectures,4,8,6,0.7333333333333333,1,Reading,85,7,Visual,False
+56,22,Man,5,6,7,5,5,5,Face to face lectures,5,6,5,0.05,1,Visual,65,23,Auditory,False
+57,22,Man,8,4,0,6,2,7,Face to face lectures,7,7,7,3.466666666666667,1,Mixed,65,12,Practical,False
+58,20,Woman,5,5,4,5,5,5,Practical workshops,5,5,5,1.1333333333333333,1,Mixed,50,19,Visual,False
